@@ -2,7 +2,7 @@ local httpservice = game.HttpService
 local url = "paste your webhook token or url here..."
 
 --[[
-// timblox-discblox-api
+// project-rocord
 
 This project is made by @timothy1498
 Credit me before using it on your game
