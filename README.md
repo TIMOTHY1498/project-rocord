@@ -9,5 +9,10 @@ Connects your Roblox game chat into your discord server!
    ```https://timothybrennans.my.id/deez-nuts```
 4. After that, copy the webhook token and paste it into this line of code
    ```lua
-   local url = "paste your webhook token or url..."
+   local url = "paste your webhook token or url in here..." 
    ```
+5. Enjoy it, you're done!
+
+# Credit
+
+Please credit PakTimoGus124 (timothy1498_boi) for making this project
