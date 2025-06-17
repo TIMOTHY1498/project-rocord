@@ -14,7 +14,7 @@ Connects your Roblox game chat into your discord server!
 
 # Credit
 
-Please credit PakTimoGus124 (timothy1498_boi) for making this project
+Please credit timothy1498_boi for making this project
 
 # Try it
 
